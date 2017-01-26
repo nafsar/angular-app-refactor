@@ -102,8 +102,6 @@ ul.uiux-ul li:last-child {
 }
 
 .uiux-btn {
-    float: left;
-    -moz-user-select: none;
     border: medium none;
     cursor: pointer;
     display: inline-block;
